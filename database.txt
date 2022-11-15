@@ -1,0 +1,3 @@
+{'email': 'skjdfksj@gmail.com', 'subject': 'motivation', 'message': 'HELLO WORLD NIMA GAPLA UZI TINCHMISAN'}
+{'email': 'jonick2000@gmail.com', 'subject': 'SDF', 'message': 'FUCK THE WORLD'}
+{'email': 'jonysayfullaev2000@gmail.com', 'subject': 'sfsfsfsf', 'message': 'sfsf'}
